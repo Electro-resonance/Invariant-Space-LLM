@@ -28,6 +28,12 @@ This repository is deliberately sober and technical. It does **not** include poe
 
 ---
 
+## Follow-up Research: Doubt Is All You Need! (October 2026)
+
+Building on *Inversion Is All You Need*, this follow-up paper explores whether attention and invariant-space dynamics need a complementary mechanism of **computational doubt**. While attention discovers relationships and dynamic invariant spaces seek stable representations, doubt introduces a means of questioning surprising information before accepting it as knowledge. The proposed architecture combines a Doubt Workspace with evidence-aware generation, memory and learning gates, allowing novel hypotheses to be preserved without confusing uncertainty with falsity. Inspired by BRCT (Bindu Recursive Compression Theory), the work investigates how recursive compression, expansion, surprise and verification might improve reasoning stability, reduce hallucinations and enable more reliable self-correction. These are experimental architectural proposals, with measurable predictions and falsifiable tests, rather than established performance claims. **Attention finds possibilities. Inversion seeks invariants. Doubt asks which ones deserve to be believed.**
+
+---
+
 ## Minimal GitHub release contents
 
 This release intentionally contains only the core publication artefacts:
